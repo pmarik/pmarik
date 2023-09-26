@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paul Marik</h1>
 <h3 align="center">A passionate software engineer specializing in React and UI/UX</h3>
 
+![Software engineer](https://github.com/pmarik/pmarik/blob/main/paul-marik-software-engineer.jpg)
+
 - 🔭 I’m currently working on [Lucidworks Docs Site](https://doc.lucidworks.com/)
 
 - 👨‍💻 All of my projects are available at [https://www.marik.tech](https://www.marik.tech)
