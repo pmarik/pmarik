@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paul Marik</h1>
-<h2 align="center">Software engineer specializing in React, Typescript, Next.js with an emphasis on UI/UX</h2>
+<h2 align="center">Software engineer specializing in React, Typescript, & Next.js with an emphasis on UI/UX</h2>
 
 ![Software engineer](https://github.com/pmarik/pmarik/blob/main/paul-marik-software-engineer.jpg)
 
-- 🔭 I’m currently working on [Lucidworks Docs Site](https://doc.lucidworks.com/)
+- 🔭 I’m currently working on [Trade Tracker](https://tradetracker.ai/)
 
 - 👨‍💻 All of my projects are available at [https://www.marik.tech](https://www.marik.tech)
 
 - 📫 How to reach me **pmarik@uwalumni.com**
 
-- ⚡ Fun fact **Skiing is my personality :)**
+- ⚡ Fun fact **Skiing is life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
