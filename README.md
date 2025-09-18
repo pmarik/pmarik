@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Marik</h1>
-<h2 align="center">A passionate software engineer specializing in React and UI/UX</h2>
+<h2 align="center">Software engineer specializing in React, Typescript, Next.js with an emphasis on UI/UX</h2>
 
 ![Software engineer](https://github.com/pmarik/pmarik/blob/main/paul-marik-software-engineer.jpg)
 
